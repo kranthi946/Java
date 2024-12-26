@@ -1,0 +1,13 @@
+package POLYMORPHISM;
+
+public class OVERRIDING {
+
+// SAME METHOD NAME
+    // PARAMETERS SHOULD ALSO BE SAME
+
+    // INHERITENCE
+
+}
+
+
+
